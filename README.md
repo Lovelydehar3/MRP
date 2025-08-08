@@ -5,7 +5,7 @@ This project performs **data analysis on old movies** to uncover trends, ratings
 It uses Python libraries to clean, process, and visualize the data for better understanding of the movie industry’s historical performance.
 
 🔗 **GitHub Repository:** [Movie-Dataset-Insights
-](https://github.com/Lovelydehar3/MRP)
+](https://github.com/Lovelydehar3/Movie-Dataset-Insights)
 
 ---
 
@@ -39,7 +39,7 @@ It uses Python libraries to clean, process, and visualize the data for better un
 🤝 Connect With Me
 GitHub: Lovelydehar3
 
-LinkedIn: Lovepreet Singh
+LinkedIn: https://www.linkedin.com/in/lovepreet-singh-6200a8287/
 
 Email: lovepreetsingh73437@gmail.com
 ```bash
