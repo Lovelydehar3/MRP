@@ -1,51 +1,43 @@
-# 🎬 Movie Recommendation & Prediction (MRP)
+# 🎬 Old Movies Data Analysis
 
-A comprehensive machine learning and data analysis project aimed at predicting the success of movies and recommending similar titles based on genre, popularity, budget, and more. Built using **Python (Jupyter Notebook)**, with **Excel** for data analysis and **Power BI** for impactful visualizations.
+## 📌 Overview
+This project performs **data analysis on old movies** to uncover trends, ratings, and patterns over past decades.  
+It uses Python libraries to clean, process, and visualize the data for better understanding of the movie industry’s historical performance.
 
----
-
-## 📌 Project Overview
-
-The **Movie Recommendation & Prediction (MRP)** system performs:
-- **Movie Success Prediction** using Machine Learning models
-- **Data Analysis** of features like Budget, Popularity, Genre, Revenue, etc.
-- **Recommender System** based on movie similarity
-- **Power BI Visualizations** for dashboards and executive insights
-
-> This project is created by **Lovepreet Singh**, a passionate Data Science and Web Development enthusiast from India.  
-> 👉 [GitHub Profile](https://github.com/Lovelydehar3)
+🔗 **GitHub Repository:** [MRP](https://github.com/Lovelydehar3/MRP)
 
 ---
 
-## 🧠 Features
-
-🔹 **Exploratory Data Analysis (EDA)**  
-✔ Cleaning and understanding movie metadata  
-✔ Handling nulls, duplicates, converting formats  
-✔ Uncovering trends in revenue, popularity, budget, genre  
-
-🔹 **Machine Learning**  
-✔ Model to predict **whether a movie will be a hit or flop**  
-✔ Feature importance and selection  
-✔ Accuracy metrics evaluated using sklearn
-
-🔹 **Movie Recommendation System**  
-✔ Content-based filtering  
-✔ Suggests similar movies based on selected inputs  
-✔ Uses cosine similarity and TF-IDF vectors
-
-🔹 **Power BI Integration** 
-✔ Interactive dashboards  
-✔ Trendline and comparative visuals  
-✔ Budget vs Revenue, Genre vs Popularity
+## 📂 Dataset
+- **Source:** [Insert dataset link here, e.g., Kaggle or local CSV]
+- **Format:** CSV
+- **Key Columns:**
+  - Title – Movie name
+  - Year – Release year
+  - Genre – Type of movie
+  - Rating – IMDb rating
+  - Votes – Number of votes received
 
 ---
 
-## 🗂️ Project Structure
+## 🛠️ Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
+---
+
+## 📊 Key Insights
+- 📅 Popular decades for movie releases  
+- 🎭 Genre distribution over the years  
+- ⭐ Ratings trend over time  
+- 🏆 Highest-rated classics
+
+🤝 Connect With Me
+GitHub: Lovelydehar3
+LinkedIn: Lovepreet Singh
+Email: lovepreetsingh73437@gmail.com
 ```bash
-MRP/
-├── MSP.ipynb                # Main Jupyter Notebook with complete analysis and modeling
-├── movie_dataset.xlsx       # Cleaned dataset used in the project
-├── README.md                # You are here!
-└── PowerBI_Dashboard.pbix   # (Coming Soon)
+git clone https://github.com/Lovelydehar3/MRP.git
