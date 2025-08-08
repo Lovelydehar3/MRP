@@ -38,7 +38,9 @@ It uses Python libraries to clean, process, and visualize the data for better un
 
 🤝 Connect With Me
 GitHub: Lovelydehar3
+
 LinkedIn: Lovepreet Singh
+
 Email: lovepreetsingh73437@gmail.com
 ```bash
 git clone https://github.com/Lovelydehar3/MRP.git
