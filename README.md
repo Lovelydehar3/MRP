@@ -10,7 +10,7 @@ It uses Python libraries to clean, process, and visualize the data for better un
 ---
 
 ## 📂 Dataset
-- **Source:** [Insert dataset link here, e.g., Kaggle or local CSV]
+- **Source:** From Kaggle
 - **Format:** CSV
 - **Key Columns:**
   - Title – Movie name
