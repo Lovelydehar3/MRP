@@ -4,7 +4,8 @@
 This project performs **data analysis on old movies** to uncover trends, ratings, and patterns over past decades.  
 It uses Python libraries to clean, process, and visualize the data for better understanding of the movie industry’s historical performance.
 
-🔗 **GitHub Repository:** [MRP](https://github.com/Lovelydehar3/MRP)
+🔗 **GitHub Repository:** [Movie-Dataset-Insights
+](https://github.com/Lovelydehar3/MRP)
 
 ---
 
